@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tri Asih</title>
+</head>
+<body>
+  <h1>Asih selalu oke</h1>
+</body>
+</html>
