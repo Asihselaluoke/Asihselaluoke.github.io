@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Tri Asih</title>
+  <title>TRI ASIH</title>
 </head>
 <body>
-  <h1>Asih selalu oke</h1>
+  <h1>It is all about asih</h1>
+  <p>asih cantik.</p>
 </body>
 </html>
